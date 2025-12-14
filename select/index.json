@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "寿司食べたい",
+  "base_artist": "ウルトラ寿司ふぁいやー",
+  "createdAt": "2025-12-14T11:44:59.957380Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寿司食べたい",
+      "artist": "ウルトラ寿司ふぁいやー",
+      "has_synced": false,
+      "path": "select/pl_01_寿司食べたい_ウルトラ寿司ふぁいやー.txt"
+    }
+  ]
+}
